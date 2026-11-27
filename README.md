@@ -1,8 +1,8 @@
 # The World in One Day — Thursday 26 November 2026
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/news-image-20261126)
-[![make.fun](https://img.shields.io/badge/make.fun-agent-green)](https://make.fun)
-[![make.fun](https://img.shields.io/badge/make.fun-news--image-orange)](https://make.fun/bounty/news-image-20261126)
+[![make.fun · news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/ipaludhi/world-in-one-day-26-nov-2026/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/ipaludhi/world-in-one-day-26-nov-2026/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
 
 One image that sums up 26 November 2026's world news: **36 verified stories
 across 7 regions** on a single newspaper front page — the Dow's 1,100-point
